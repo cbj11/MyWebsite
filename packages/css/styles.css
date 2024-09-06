@@ -55,7 +55,27 @@
   --z-fixed: 100;
   --z-modal: 1000;
 }
+.whatsapp-button {
+  position: fixed;
+  bottom: 70px;
+  left: 20px;
+  z-index: 1000;
+  background-color: #25d366; 
+  color: white;
+  padding: 15px 20px;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
 
+.whatsapp-button:hover {
+  background-color: #20c659; 
+}
+
+.whatsapp-button i {
+  margin-left: 10px;
+}
 /* Font size for large devices */
 @media screen and (min-width: 968px) {
   :root {
