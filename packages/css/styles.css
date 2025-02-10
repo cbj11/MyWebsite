@@ -60,7 +60,7 @@
   bottom: 70px;
   left: 20px;
   z-index: 1000;
-  background-color: #25d366; 
+  background-color: #25d366;
   color: white;
   padding: 15px 20px;
   border-radius: 50px;
@@ -70,7 +70,7 @@
 }
 
 .whatsapp-button:hover {
-  background-color: #20c659; 
+  background-color: #20c659;
 }
 
 .whatsapp-button i {
@@ -541,11 +541,11 @@ img {
 }
 
 .skills__css {
-  width: 80%;
+  width: 90%;
 }
 
 .skills__js {
-  width: 70%;
+  width: 80%;
 }
 
 .skills__wordpress {
@@ -553,23 +553,23 @@ img {
 }
 
 .skills__python {
-  width: 80%;
-}
-
-.skills__tab {
-  width: 70%;
-}
-
-.skills__vbnet {
-  width: 70%;
-}
-
-.skills__RPA {
   width: 90%;
 }
 
+.skills__tab {
+  width: 80%;
+}
+
+.skills__vbnet {
+  width: 90%;
+}
+
+.skills__RPA {
+  width: 100%;
+}
+
 .skills__google {
-  width: 70%;
+  width: 90%;
 }
 
 .skills__RPAUiPath {
