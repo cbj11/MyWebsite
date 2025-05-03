@@ -19,6 +19,7 @@
 - HTML5
 - CSS3
 - (Optional) Bootstrap
+- Javascript
 
 **Acknowledgments**
 - Inspired by the need for a simple and effective online CV.
